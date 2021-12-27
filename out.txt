@@ -1,0 +1,18 @@
+You enter INT
+Enter a position:
+3
+You enter FLOAT
+Enter a position:
+4.5
+You enter DOUBLE
+Enter a position:
+6.7
+You enter POINT
+Enter a position:
+Enter X:
+9
+All your input, one by one:
+Posititon: 3
+Posititon: 4.5
+Posititon: 6.7
+Posititon: X: 9
